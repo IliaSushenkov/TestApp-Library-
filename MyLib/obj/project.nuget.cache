@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aw0E9KSzg9P9nAfCZcABqjEWW1uH0nrEXN5PjOouT9TPeZ7wLshF1qxAbDOIlJmwHqrGLgvdkly0cSURQte63g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ilias\\Desktop\\TestApp\\MyLib\\MyLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilias\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ilias\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\ilias\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}

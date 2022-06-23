@@ -1,0 +1,12 @@
+C:\Users\ilias\Desktop\TestApp\MyLib\bin\Debug\net6.0\MyLib.deps.json
+C:\Users\ilias\Desktop\TestApp\MyLib\bin\Debug\net6.0\MyLib.dll
+C:\Users\ilias\Desktop\TestApp\MyLib\bin\Debug\net6.0\MyLib.pdb
+C:\Users\ilias\Desktop\TestApp\MyLib\obj\Debug\net6.0\MyLib.csproj.AssemblyReference.cache
+C:\Users\ilias\Desktop\TestApp\MyLib\obj\Debug\net6.0\MyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilias\Desktop\TestApp\MyLib\obj\Debug\net6.0\MyLib.AssemblyInfoInputs.cache
+C:\Users\ilias\Desktop\TestApp\MyLib\obj\Debug\net6.0\MyLib.AssemblyInfo.cs
+C:\Users\ilias\Desktop\TestApp\MyLib\obj\Debug\net6.0\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\ilias\Desktop\TestApp\MyLib\obj\Debug\net6.0\MyLib.dll
+C:\Users\ilias\Desktop\TestApp\MyLib\obj\Debug\net6.0\refint\MyLib.dll
+C:\Users\ilias\Desktop\TestApp\MyLib\obj\Debug\net6.0\MyLib.pdb
+C:\Users\ilias\Desktop\TestApp\MyLib\obj\Debug\net6.0\ref\MyLib.dll
